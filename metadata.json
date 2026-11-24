@@ -1,0 +1,6 @@
+{
+  "name": "Shikhon Shala (শিখনশালা)",
+  "description": "Free Bangla Bijoy typing learning platform and upload-ready Blogger XML theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
